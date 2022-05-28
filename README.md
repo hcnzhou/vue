@@ -1,9 +1,6 @@
 # hello-world
 
-## Project setup
-```
-npm install
-```
+## 我难受
 
 ### Compiles and hot-reloads for development
 ```
